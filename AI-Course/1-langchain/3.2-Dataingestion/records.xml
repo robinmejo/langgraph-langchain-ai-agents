@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="101">
+        <name>Robin Mejo</name>
+        <department>Technology</department>
+        <role>Technology Analyst</role>
+        <skills>
+            <skill>Python</skill>
+            <skill>LangChain</skill>
+            <skill>AI</skill>
+        </skills>
+    </employee>
+
+    <employee id="102">
+        <name>John Doe</name>
+        <department>Engineering</department>
+        <role>Software Developer</role>
+        <skills>
+            <skill>Java</skill>
+            <skill>Spring Boot</skill>
+        </skills>
+    </employee>
+</employees>
